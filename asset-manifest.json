@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-blog/static/css/main.4d9c1fa6.css",
+    "main.js": "/simple-blog/static/js/main.e8c7d771.js",
+    "static/media/home.svg": "/simple-blog/static/media/home.9489f1872e5b4ef959f1dac85fb0f392.svg",
+    "index.html": "/simple-blog/index.html",
+    "static/media/add.svg": "/simple-blog/static/media/add.601aa35ef3d117ba0495d4f86d196ea0.svg",
+    "static/media/delete.svg": "/simple-blog/static/media/delete.0f7cfd4e924f4ca8a37b1e7736abdcde.svg",
+    "main.4d9c1fa6.css.map": "/simple-blog/static/css/main.4d9c1fa6.css.map",
+    "main.e8c7d771.js.map": "/simple-blog/static/js/main.e8c7d771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d9c1fa6.css",
+    "static/js/main.e8c7d771.js"
+  ]
+}
