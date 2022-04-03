@@ -1,0 +1,42 @@
+.App {
+	text-align: center;
+	height: 100vh;
+}
+
+:root {
+	--primary: #e63e6d;
+	--secondary: #fff;
+	--text: #757575;
+	--divider: #eee;
+	--border: #dfdfdf;
+}
+
+.app-content {
+	width: 50%;
+	height: 100%;
+	margin: auto;
+}
+
+@media (max-width: 1100px) {
+	.app-content {
+		width: 60%;
+	}
+}
+
+@media (max-width: 940px) {
+	.app-content {
+		width: 70%;
+	}
+}
+
+@media (max-width: 770px) {
+	.app-content {
+		width: 80%;
+	}
+}
+
+@media (max-width: 650px) {
+	.app-content {
+		width: 100%;
+	}
+}
